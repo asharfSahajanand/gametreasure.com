@@ -103,6 +103,7 @@
                             { name: "Developers", path: "/developer.html" },
                             { name: "Affiliates", path: "/affiliates.html" },
                             { name: "Privacy Policy", path: "/privacy-policy.html" },
+                            { name: "Disclaimer", path: "./explore/disclaimer.html" },
                           ].map((a) =>
                             (0, r.jsx)(
                               "li",
